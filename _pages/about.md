@@ -25,5 +25,5 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 under minor revision in <em>ACM Transactions on Modeling and Computer Simulation</em>
 
 **A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates**  
-Hao Ding, **Ziwei Su**, Xiaoqian Liu\  
+Hao Ding, **Ziwei Su**, Xiaoqian Liu 
 <em>Communications in Statistics - Simulation and Computation, 2020</em>
