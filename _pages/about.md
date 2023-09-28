@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 3rd-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html) and Prof. [Matthew Plumlee](http://users.iems.northwestern.edu/~mplumlee/) (On leave at Amazon), majoring in applied statistics and statistical learning with a minor in simulation and stochastic analysis.
 
-I am broadly interested in non-parametric statistics, statistical learning, applied statistics, and stochastic simulation. In particular, my research covers computational methods for uncertainty quantification in machine learning and stochastic operations research.
+I am broadly interested in non-parametric statistics, statistical learning, applied probability, and stochastic simulation. In particular, my research covers computational methods for uncertainty quantification in machine learning and stochastic operations research.
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
