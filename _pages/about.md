@@ -14,6 +14,13 @@ I am broadly interested in non-parametric statistics, statistical learning, appl
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
+Please find my latest CV [here](ziweisu/ziwei.su.github.io/files/CV_Ziwei_Su.pdf).
+
+I will present my work 'Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies' [\[Abstract\]](https://www.abstractsonline.com/pp8/?__hstc=194041586.25a158d799955c9e28b4cac1b2d4cea0.1683759608597.1695755968069.1695924267557.14&__hssc=194041586.1.1695924267557&__hsfp=970765120&hsCtaTracking=8565990a-f890-45db-8248-5e530111907a%7C2782dcb1-3c43-4263-8050-061684381408#!/10856/presentation/9497) at INFORMS Annual Meeting 2023:
+- Session WA64 - Simulation Methods and Applications
+- October 18, 2023, 8:00 AM - 9:15 AM
+- CC-West 102C
+
 # Publication
 
 Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies  
@@ -27,3 +34,11 @@ under minor revision in <em>ACM Transactions on Modeling and Computer Simulation
 A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
 <em>Communications in Statistics - Simulation and Computation, 2020</em>
+
+# Presentations
+
+**Session Speaker**, <em>Calibration of Inexact Stochastic Simulation Models via Energy Score</em> [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10856/presentation/9497)  
+INFORMS Annual Meeting, Phoenix, AZ, Oct 2023  
+
+**Session Chair, Session Speaker**, <em>Stochastic Simulation Calibration of Inexact Computer Models</em> [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10693/presentation/9333)  
+INFORMS Annual Meeting, Indianapolis, IN, Oct 2022
