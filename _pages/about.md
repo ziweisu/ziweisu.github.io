@@ -16,8 +16,14 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 
 # Publication
 
-**Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies**<br />**Ziwei Su**, Matthew Plumlee<br /><em>Manuscript in Preparation</em>
+**Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies**  
+**Ziwei Su**, Matthew Plumlee  
+<em>Manuscript in Preparation</em>
 
-**Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation**<br />**Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn<br />under minor revision in <em>ACM Transactions on Modeling and Computer Simulation</em>
+**Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation**  
+**Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
+under minor revision in <em>ACM Transactions on Modeling and Computer Simulation</em>
 
-**A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates**<br />Hao Ding, **Ziwei Su**, Xiaoqian Liu<br /><em>Communications in Statistics - Simulation and Computation, 2020</em>
+**A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates**  
+Hao Ding, **Ziwei Su**, Xiaoqian Liu  
+<em>Communications in Statistics - Simulation and Computation, 2020</em>
