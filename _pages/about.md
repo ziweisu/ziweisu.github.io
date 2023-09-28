@@ -23,17 +23,17 @@ I will present my work 'Calibration of Inexact Stochastic Simulation Models via 
 
 # Publication
 
-Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies  
+<em>Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies</em>  
 **Ziwei Su**, Matthew Plumlee  
-<em>Manuscript in Preparation</em>
+Manuscript in Preparation
 
-Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation [\[pdf\]](https://arxiv.org/abs/2307.08609)  
+<em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://arxiv.org/abs/2307.08609)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
-under minor revision in <em>ACM Transactions on Modeling and Computer Simulation, 2022</em>
+<em>under minor revision</em> in ACM Transactions on Modeling and Computer Simulation, 2022
 
-A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
+<em>A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates</em> [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
-<em>Communications in Statistics - Simulation and Computation, 2020</em>
+Communications in Statistics - Simulation and Computation, 2020
 
 # Presentations
 
