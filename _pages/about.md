@@ -16,7 +16,7 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 
 Please find my latest CV [here](https://ziweisu.github.io/files/CV_Ziwei_Su.pdf).
 
-I am actively looking for **2024 summer internship positions** in **applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher** roles.
+I am actively looking for 2024 summer internship positions in applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher roles.
 
 I will present my work <em>'Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies'</em> [\[Abstract\]](https://www.abstractsonline.com/pp8/?__hstc=194041586.25a158d799955c9e28b4cac1b2d4cea0.1683759608597.1695755968069.1695924267557.14&__hssc=194041586.1.1695924267557&__hsfp=970765120&hsCtaTracking=8565990a-f890-45db-8248-5e530111907a%7C2782dcb1-3c43-4263-8050-061684381408#!/10856/presentation/9497) at INFORMS Annual Meeting 2023:
 - Session WA64 - Simulation Methods and Applications
