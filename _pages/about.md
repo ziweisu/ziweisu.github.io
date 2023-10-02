@@ -25,7 +25,7 @@ I will present my work <em>'Calibration of Inexact Stochastic Simulation Models 
 
 # Publication
 
-<em>Calibration of Inexact Stochastic Simulation Models via Minimizing Scoring Rules under Kernelized Discrepancies</em>  
+<em>Calibration of Inexact Stochastic Simulation Models via Scoring Rules under Kernelized Discrepancies</em>  
 **Ziwei Su**, Matthew Plumlee  
 Manuscript in Preparation
 
