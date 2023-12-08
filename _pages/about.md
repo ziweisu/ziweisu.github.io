@@ -27,7 +27,7 @@ Manuscript in Preparation
 
 <em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://arxiv.org/abs/2307.08609)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
-<em>To appear on ACM Transactions on Computer Modeling and Simulation, 2023</em>
+<em>To appear on</em> ACM Transactions on Computer Modeling and Simulation, 2023
 
 <em>A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates</em> [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
