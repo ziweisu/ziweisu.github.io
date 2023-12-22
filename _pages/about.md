@@ -14,7 +14,7 @@ I am broadly interested in statistics, statistical learning, applied probability
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
-Please find my latest CV [here](https://ziweisu.github.io/files/CV_Ziwei_Su (1).pdf).
+Please find my latest CV [here](https://ziweisu.github.io/files/CV_Ziwei_Su.pdf).
 
 I am actively looking for 2024 summer internship positions in student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher roles.
 
