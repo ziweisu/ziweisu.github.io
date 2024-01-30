@@ -20,9 +20,9 @@ I am actively looking for 2024 summer internship positions in student researcher
 
 # Publication
 
-<em>Train Stochastic Models like GANs: Learning Model Parameters with Consistency and
+<em>Training Stochastic Models like GANs: Learning Model Parameters with Consistency and
 Confidence under Model Discrepancy</em>  
-**Ziwei Su**, Matthew Plumlee, Diego Klabjan  
+**Ziwei Su**, Diego Klabjan  
 Manuscript in Preparation
 
 <em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://arxiv.org/abs/2307.08609)  
