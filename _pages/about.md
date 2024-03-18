@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html), majoring in applied statistics and statistical learning with a minor in simulation and stochastic analysis. I have also worked with Dr. [Matthew Plumlee]([http://users.iems.northwestern.edu/~mplumlee/](https://www.linkedin.com/in/matthew-plumlee-a072361a/)) (Principal applied scientist at Amazon).
+I am a 3rd-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html), majoring in applied statistics and statistical learning with a minor in simulation and stochastic analysis. I have also worked with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/) (Principal applied scientist at Amazon).
 
 I am broadly interested in statistics, statistical learning, applied probability, and stochastic simulation. In particular, my research covers computational methods for uncertainty quantification in machine learning and stochastic operations research.
 
@@ -25,7 +25,7 @@ Confidence under Model Discrepancy</em>
 **Ziwei Su**, Diego Klabjan  
 Under Review
 
-<em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://arxiv.org/abs/2307.08609)  
+<em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
 ACM Transactions on Modeling and Computer Simulation, 2023
 
