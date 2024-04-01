@@ -14,7 +14,7 @@ I am broadly interested in statistics, statistical learning, applied probability
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
-Please find my latest CV [here](https://github.com/ziweisu/ziweisu.github.io/blob/master/files/CV_Ziwei_Su.pdf).
+Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
 
 I am actively looking for 2024 summer internship positions in student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher roles.
 
@@ -27,7 +27,7 @@ Under Review
 
 <em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
-ACM Transactions on Modeling and Computer Simulation, 2023
+ACM Transactions on Modeling and Computer Simulation, 2024
 
 <em>A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates</em> [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
