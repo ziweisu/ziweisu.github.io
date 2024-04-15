@@ -20,8 +20,7 @@ I am actively looking for 2024 summer internship positions in student researcher
 
 # Publication
 
-<em>Training Stochastic Models like GANs: Learning Model Parameters with Consistency and
-Confidence under Model Discrepancy</em>  
+<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score</em>  
 **Ziwei Su**, Diego Klabjan  
 Under Review
 
