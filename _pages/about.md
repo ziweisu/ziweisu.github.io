@@ -16,7 +16,7 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 
 Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
 
-I am actively looking for 2024 summer internship positions in student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher roles.
+I am actively looking for 2024 summer, fall, 2025 spring, and fall internship positions in student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher roles.
 
 # Publication
 
