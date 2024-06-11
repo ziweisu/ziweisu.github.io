@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html), majoring in applied statistics and statistical learning with a minor in simulation and stochastic analysis. I have also worked with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/) (Principal applied scientist at Amazon).
+I am a rising 4-th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. I have also worked with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon.
 
-I am broadly interested in statistics, statistical learning, applied probability, and stochastic simulation. In particular, my research covers computational methods for uncertainty quantification in machine learning and stochastic operations research.
+For the summer and fall of 2024, I am interning with the Global Pricing Team at McDonald's as a recommendation system researcher.
+
+My research interests broadly encompass statistics, machine learning, applied probability, and stochastic simulation. Specifically, my work focuses on computational methods for uncertainty quantification in machine learning and stochastic operations research.
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
 Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
 
-I am actively looking for 2024 summer, fall, 2025 spring, and fall internship positions in student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quant researcher roles.
+I am actively seeking internship positions for spring, summer, and fall 2025 in roles such as student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quantitative researcher.
 
 # Publication
 
-<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score</em>  
+<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  
 **Ziwei Su**, Diego Klabjan  
 Under Review
 
