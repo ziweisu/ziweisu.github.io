@@ -22,7 +22,7 @@ I am actively seeking internship positions for spring, summer, and fall 2025 in 
 
 # Publication
 
-<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  
+<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  [\[pdf\]](../files/simulation_calibration_arxiv.pdf)  
 **Ziwei Su**, Diego Klabjan  
 Under Review
 
