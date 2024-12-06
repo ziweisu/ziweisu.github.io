@@ -8,17 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising 4-th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. I have also worked with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon.
+I am a rising 4-th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. I have also worked with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon. From June to December 2024, I was interning with the Global Pricing Team at McDonald's as a recommendation system researcher.
 
-For the summer and fall of 2024, I am interning with the Global Pricing Team at McDonald's as a recommendation system researcher.
-
-My research interests broadly encompass statistics, machine learning, applied probability, and stochastic simulation. Specifically, my work focuses on computational methods for uncertainty quantification in machine learning and stochastic operations research.
+My research interests broadly encompass statistics, statistical learning, applied probability, and stochastic simulation. Specifically, my work focuses on computational methods for uncertainty quantification.
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
 Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
-
-I am actively seeking internship positions for spring, summer, and fall 2025 in roles such as student researcher, applied scientist, research scientist, data scientist, machine learning engineer, and quantitative researcher.
 
 # Publication
 
