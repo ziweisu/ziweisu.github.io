@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4-th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. 
 
-I am also fortunate to work with Prof. [Imon Banerjee]([https://dynresmanagement.com/index.html](https://ibanerj750.github.io/)). I also had the pleasure of working with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon. 
+I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/)). I also had the pleasure of working with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon. 
 
 My research interests broadly encompass statistics, statistical learning, applied probability, and stochastic simulation. Specifically, my work focuses on computational methods for uncertainty quantification in machine learning and stochastic operations research. 
 
