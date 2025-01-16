@@ -14,7 +14,7 @@ I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github
 
 My research interests broadly encompass statistics, statistical learning, applied probability, and stochastic simulation. Specifically, my work focuses on computational methods for uncertainty quantification in machine learning and stochastic operations research. 
 
-From June to December 2024, I interned with the Global Pricing Team at McDonald's as a recommendation system researcher. I will be interning at Amazon starting June 2025 as an applied scientist intern with Dr. [Phil Kaminsky](https://kaminsky.ieor.berkeley.edu/).
+From June to December 2024, I interned with the Global Pricing Team at McDonald's as a recommendation system researcher. I will be interning at Amazon starting June 2025 as an applied scientist intern.
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
