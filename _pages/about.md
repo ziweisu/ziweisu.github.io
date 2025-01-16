@@ -10,11 +10,11 @@ redirect_from:
 
 I am a 4-th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. 
 
-I am also fortunate to work with Prof. [Imon Banerjee]([https://dynresmanagement.com/index.html](https://ibanerj750.github.io/)). I also worked with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon. 
+I am also fortunate to work with Prof. [Imon Banerjee]([https://dynresmanagement.com/index.html](https://ibanerj750.github.io/)). I also had the pleasure of working with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon. 
 
 My research interests broadly encompass statistics, statistical learning, applied probability, and stochastic simulation. Specifically, my work focuses on computational methods for uncertainty quantification in machine learning and stochastic operations research. 
 
-From June to December 2024, I was interning with the Global Pricing Team at McDonald's as a recommendation system researcher. I will be interning at Amazon starting June 2025 as an applied scientist intern with Dr. [Phil Kaminsky](https://kaminsky.ieor.berkeley.edu/).
+From June to December 2024, I interned with the Global Pricing Team at McDonald's as a recommendation system researcher. I will be interning at Amazon starting June 2025 as an applied scientist intern with Dr. [Phil Kaminsky](https://kaminsky.ieor.berkeley.edu/).
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
