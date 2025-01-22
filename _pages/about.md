@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4-th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. 
+I am a 4th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. 
 
 I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/). I also had the pleasure of working with Dr. [Matthew Plumlee](https://www.linkedin.com/in/matthew-plumlee-a072361a/), Principal applied scientist at Amazon. 
 
@@ -24,7 +24,7 @@ Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65db
 
 <em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  [\[pdf\]](../files/simulation_calibration_arxiv.pdf)  
 **Ziwei Su**, Diego Klabjan  
-Under Review
+Accepted to Artificial Intelligence and Statistics, 2025
 
 <em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
