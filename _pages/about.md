@@ -24,7 +24,7 @@ Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65db
 
 <em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  [\[pdf\]](../files/simulation_calibration_arxiv.pdf)  
 **Ziwei Su**, Diego Klabjan  
-<em>To appear</em> in Artificial Intelligence and Statistics (AISTATS), 2025
+<em>To appear</em> in International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 
 <em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
