@@ -23,28 +23,25 @@ Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65db
 # Publication
 
 ## Ongoing Work
-<em> Typical Behavior of Weak Mixing Recurrent Controlled Markov Chains </em>  
+1. <em> Typical Behavior of Weak Mixing Recurrent Controlled Markov Chains </em>  
 **Ziwei Su**, Imon Banerjee, Diego Klabjan
 
 ## Published Work
 
-<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  [\[pdf\]](../files/simulation_calibration_arxiv.pdf) [\[GitHub\]](https://github.com/ziweisu/differentiable-calibration) <br/>
+1. Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization  [\[pdf\]](../files/simulation_calibration_arxiv.pdf) [\[GitHub\]](https://github.com/ziweisu/differentiable-calibration) <br/>
 **Ziwei Su**, Diego Klabjan  
 International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
-
-
-<em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
+1. Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
 ACM Transactions on Modeling and Computer Simulation, 2024
-
-<em>A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates</em> [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
+1. A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
 Communications in Statistics - Simulation and Computation, 2020
 
 # Presentations
 
-**Session Speaker**, <em>Calibration of Inexact Stochastic Simulation Models via Energy Score</em> [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10856/presentation/9497)  
+**Session Speaker**, Calibration of Inexact Stochastic Simulation Models via Energy Score [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10856/presentation/9497)  
 INFORMS Annual Meeting, Phoenix, AZ, Oct 2023  
 
-**Session Chair, Session Speaker**, <em>Stochastic Simulation Calibration of Inexact Computer Models</em> [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10693/presentation/9333)  
+**Session Chair, Session Speaker**, Stochastic Simulation Calibration of Inexact Computer Models [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10693/presentation/9333)  
 INFORMS Annual Meeting, Indianapolis, IN, Oct 2022
