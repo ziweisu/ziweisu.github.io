@@ -38,10 +38,3 @@ ACM Transactions on Modeling and Computer Simulation, 2024
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
 Communications in Statistics - Simulation and Computation, 2020
 
-# Presentations
-
-**Session Speaker**, Calibration of Inexact Stochastic Simulation Models via Energy Score [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10856/presentation/9497)  
-INFORMS Annual Meeting, Phoenix, AZ, Oct 2023  
-
-**Session Chair, Session Speaker**, Stochastic Simulation Calibration of Inexact Computer Models [\[Abstract\]](https://www.abstractsonline.com/pp8/#!/10693/presentation/9333)  
-INFORMS Annual Meeting, Indianapolis, IN, Oct 2022
