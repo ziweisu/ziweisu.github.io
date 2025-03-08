@@ -23,7 +23,7 @@ Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65db
 # Publication
 
 ## Ongoing Work
-1. <em> Typical Behavior of Weak Mixing Recurrent Controlled Markov Chains </em>  
+1. Typical Behavior of Weak Mixing Recurrent Controlled Markov Chains  
 **Ziwei Su**, Imon Banerjee, Diego Klabjan
 
 ## Published Work
