@@ -22,9 +22,16 @@ Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65db
 
 # Publication
 
-<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  [\[pdf\]](../files/simulation_calibration_arxiv.pdf)  
+## Ongoing Work
+<em> Typical Behavior of Weak Mixing Recurrent Controlled Markov Chains </em>  
+**Ziwei Su**, Imon Banerjee, Diego Klabjan
+
+## Published Work
+
+<em>Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization</em>  [\[pdf\]](../files/simulation_calibration_arxiv.pdf) [\[GitHub\]](https://github.com/ziweisu/differentiable-calibration) <br/>
 **Ziwei Su**, Diego Klabjan  
-<em>To appear</em> in International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
+
 
 <em>Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation</em> [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn  
