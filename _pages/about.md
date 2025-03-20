@@ -20,6 +20,8 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 
 Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
 
+My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) is 3: Ziwei Su - Diego Klabjan - Craig A. Tovey - Paul Erdős.
+
 # Publication
 
 ## Ongoing Work
