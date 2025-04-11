@@ -30,7 +30,7 @@ My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) 
 
 ## Published Work
 
-1. Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization  [\[pdf\]](../files/simulation_calibration_arxiv.pdf) [\[GitHub\]](https://github.com/ziweisu/differentiable-calibration) <br/>
+1. Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization  [\[pdf\]](../files/AISTATS_2025_Camera_Ready (6).pdf) [\[GitHub\]](https://github.com/ziweisu/differentiable-calibration) <br/>
 **Ziwei Su**, Diego Klabjan  
 International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 1. Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
