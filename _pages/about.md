@@ -21,7 +21,6 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
 
 My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) is 3: Ziwei Su - Diego Klabjan - Craig A. Tovey - Paul Erdős.
-From June to December 2024, I worked with the Global Pricing Team at McDonald's as a researcher. I will be joining Amazon in June 2025 as an applied scientist intern on the Middle Mile Marketplace Science team.
 
 # Publication
 
