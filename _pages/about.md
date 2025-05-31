@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning, with a minor in simulation and stochastic analysis. 
+I am a 4th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning. 
 
 I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/). 
 
-My research interests broadly encompass statistics, statistical learning, applied probability, and stochastic simulation. Specifically, my work focuses on theory and computational methods for uncertainty quantification. 
+My research interests broadly encompass statistics, statistical learning and applied probability. Specifically, my work focuses on theory and computational methods for uncertainty quantification. 
 
 From June to December 2024, I worked with the Global Pricing Team at McDonald's as a recommendation system researcher. I will be joining Amazon in June 2025 as an applied scientist intern on the Middle Mile Marketplace Science team.
 
