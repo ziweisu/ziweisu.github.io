@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning. 
+I am a rising final-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning with a minor in simulation and stochastic analysis. 
 
 I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/). 
 
-My research interests broadly encompass statistics, statistical learning and applied probability. Specifically, my work focuses on theory and computational methods for uncertainty quantification. 
+My research interests broadly encompass statistics, statistical machine learning and applied probability. Specifically, my work focuses on theory and computational methods for uncertainty quantification. 
 
-From June to December 2024, I worked with the Global Pricing Team at McDonald's as a recommendation system researcher. I will be joining Amazon in June 2025 as an applied scientist intern on the Middle Mile Marketplace Science team.
+I am now interning with Middle Mile Product Research & Optimization (mmPROS) at Amazon. My hosts are Dr. [Phil Kaminsky](https://kaminsky.ieor.berkeley.edu/) and Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). From June to December 2024, I worked with the Global Pricing Team at McDonald's as a recommendation system researcher. 
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
@@ -25,7 +25,7 @@ My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) 
 # Publication
 
 ## Ongoing Work
-1. Statistical Inference of Controlled Markov Chains: CLTs for Transition Probabilities and Applications to Offline RL <br> 
+1. Statistical Inference of Controlled Markov Chains: CLT for Transition Probabilities and Applications to Offline RL <br> 
    **Ziwei Su**, Imon Banerjee, Diego Klabjan
    
 ## Published Work
