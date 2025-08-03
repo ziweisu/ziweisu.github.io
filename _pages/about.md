@@ -26,16 +26,16 @@ My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) 
 
 ## Ongoing Work
 1. Central Limit Theorems for Transition Probabilities of Controlled Markov Chains <br> 
-   **Ziwei Su**, Imon Banerjee, Diego Klabjan
+   **Ziwei Su**, Imon Banerjee, Diego Klabjan, 2025
    
 ## Published Work
 
 1. Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization  [\[pdf\]](../files/AISTATS_2025_Camera_Ready.pdf) [\[GitHub\]](https://github.com/ziweisu/differentiable-calibration) <br> 
 **Ziwei Su**, Diego Klabjan <br>
-AISTATS, 2025
+International Conference on Artificial Intelligence and Statistics (AISTATS), 2025
 1. Overlapping Batch Confidence Intervals on Statistical Functionals Constructed from Time Series: Application to Quantiles, Optimization, and Estimation [\[pdf\]](https://dl.acm.org/doi/10.1145/3649437)  
 **Ziwei Su**, Raghu Pasupathy, Yingchieh Yeh, Peter W. Glynn <br> 
-ACM TOMACS, 2024
+ACM Transactions on Modeling and Computer Simulation (ACM TOMACS), 2024
 1. A Modified Multinomial Baseline Logit Model with Logit Functions Having Different Covariates [\[pdf\]](https://www.tandfonline.com/doi/pdf/10.1080/03610918.2018.1529238)  
 Hao Ding, **Ziwei Su**, Xiaoqian Liu  
 Communications in Statistics - Simulation and Computation, 2020
