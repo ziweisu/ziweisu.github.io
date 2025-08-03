@@ -25,7 +25,7 @@ My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) 
 # Publication
 
 ## Ongoing Work
-1. Statistical Inference of Controlled Markov Chains: CLT for Transition Probabilities and Applications to Offline RL <br> 
+1. Central Limit Theorems for Transition Probabilities of Controlled Markov Chains <br> 
    **Ziwei Su**, Imon Banerjee, Diego Klabjan
    
 ## Published Work
