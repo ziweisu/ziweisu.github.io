@@ -24,8 +24,8 @@ My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) 
 
 # Publication
 
-## Ongoing Work
-1. Central Limit Theorems for Transition Probabilities of Controlled Markov Chains <br> 
+## Preprint
+1. Central Limit Theorems for Transition Probabilities of Controlled Markov Chains [\[pdf\]](https://arxiv.org/abs/2508.01517) <br>
    **Ziwei Su**, Imon Banerjee, Diego Klabjan, 2025
    
 ## Published Work
