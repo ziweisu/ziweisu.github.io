@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a rising final-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning with a minor in simulation and stochastic analysis. 
+I am a final-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning with a minor in simulation and stochastic analysis. 
 
 I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/). 
 
 My research interests broadly encompass statistics, statistical machine learning and applied probability. Specifically, my work focuses on theory and computational methods for uncertainty quantification. 
 
-I am now interning with Middle Mile Product Research & Optimization (mmPROS) at Amazon. My hosts are Dr. [Phil Kaminsky](https://kaminsky.ieor.berkeley.edu/) and Prof. [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). From June to December 2024, I worked with the Global Pricing Team at McDonald's as a recommendation system researcher. 
+From June to September 2025, I interned with the Middle Mile Science Team at Amazon as an applied scientist. My hosts were [Phil Kaminsky](https://kaminsky.ieor.berkeley.edu/) and [Adam Elmachtoub](https://www.columbia.edu/~ae2516/). From June to December 2024, I worked with the Global Pricing Team at McDonald's as a recommender system researcher. My host was [Zhivko Gochev](https://www.linkedin.com/in/zhivko-g-8a80a9161/).
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
