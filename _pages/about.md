@@ -23,8 +23,9 @@ Please find my latest CV [here](https://www.overleaf.com/read/nkxnxsngyvfk#a3b34
 My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) is 3: Ziwei Su - Diego Klabjan - Craig A. Tovey - Paul Erdős.
 
 # I will be presenting at INFORMS 2025 in Atlanta.
-- Tuesday, October 28 (4:15–5:30 PM)
+- Tuesday, October 28 (4:15–5:30 PM).
 - Invited session “Bandits and Stochastic Control” — Room A406 (Building A, Level 4).
+- Talk: Statistical Inference of Controlled Markov Chains: CLT for Transition Probabilities and Applications to Offline RL
 
 # Publication
 
