@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/index.html). My major is applied statistics and statistical learning with a minor in simulation and stochastic analysis. 
+I am a final-year Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/), Northwestern University, where I am fortunate to be advised by Prof. [Diego Klabjan](https://www.klabjan.dynresmanagement.com/). My major is applied statistics and statistical learning with a minor in simulation and stochastic analysis. 
 
 I am also fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/). 
 
@@ -21,11 +21,6 @@ Before joining Northwestern, I received my B.S. degree in mathematics and applie
 Please find my latest CV [here](https://www.overleaf.com/read/nkxnxsngyvfk#a3b34c).
 
 My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) is 3: Ziwei Su - Diego Klabjan - Craig A. Tovey - Paul Erdős.
-
-# I will be presenting at INFORMS 2025 in Atlanta.
-- Tuesday, October 28 (4:15–5:30 PM).
-- Invited session “Bandits and Stochastic Control” — Room A406 (Building A, Level 4).
-- Talk: Statistical Inference of Controlled Markov Chains: CLT for Transition Probabilities and Applications to Offline RL
 
 # Publication
 
