@@ -18,7 +18,7 @@ From June to September 2025, I interned with the Middle Mile Science Team at Ama
 
 Before joining Northwestern, I received my B.S. degree in mathematics and applied mathematics from Fudan University, and my M.S. degree in mathematical statistics from Purdue University, where I was fortunate to be advised by Prof. [Raghu Pasupathy](https://web.ics.purdue.edu/~pasupath/).
 
-Please find my latest CV [here]([https://www.overleaf.com/read/nkxnxsngyvfk#a3b34c](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
+Please find my latest CV [here](https://www.overleaf.com/read/zkmdytszbypg#e65dbb).
 
 My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) is 3: Ziwei Su - Diego Klabjan - Craig A. Tovey - Paul Erdős.
 
