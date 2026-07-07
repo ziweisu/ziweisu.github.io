@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Applied Scientist on the Pricing Systems team at Amazon, where I will join in June 2026.
+I am an Applied Scientist on the Pricing Sciences team at Amazon.
 
-I am currently a Ph.D. student in the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at Northwestern University. I have completed my Ph.D. in applied statistics and statistical learning, with a minor in simulation and stochastic analysis, and expect to graduate in June 2026. I was fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/).
+Before joining Amazon, I received my Ph.D. from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at Northwestern University in applied statistics and statistical learning, with a minor in simulation and stochastic analysis. I was fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/).
 
 I have also been fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/).
 
