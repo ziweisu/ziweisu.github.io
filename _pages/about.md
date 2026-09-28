@@ -29,7 +29,7 @@ My [Erdős number](https://mathscinet.ams.org/mathscinet/freetools/collab-dist) 
 ## Submitted Work
 
 1. Model-based Bootstrap of Controlled Markov Chains [\[pdf\]](https://arxiv.org/abs/2605.12410) <br>
-   **Ziwei Su**, Imon Banerjee, Diego Klabjan, 2026. Submitted for publication.
+   **Ziwei Su**, Imon Banerjee, Diego Klabjan, 2026. To appear at NeurIPS 2026.
 
 2. Central Limit Theorems for Transition Probabilities of Controlled Markov Chains [\[pdf\]](https://arxiv.org/abs/2508.01517) <br>
    **Ziwei Su**, Imon Banerjee, Diego Klabjan, 2025. Submitted for publication.
