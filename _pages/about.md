@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist on the Pricing and Promotion Optimization Sciences (P2OS) team at Amazon.
+I am a Quantitative Researcher at [Hyperbolic](https://www.hyperbolic.ai/). Previously, I was an Applied Scientist on the Pricing and Promotion Optimization Sciences (P2OS) team at Amazon.
 
-Before joining Amazon, I received my Ph.D. from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at Northwestern University in applied statistics and statistical learning, with a minor in simulation and stochastic analysis. I was fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/).
+I received my Ph.D. from the Department of [Industrial Engineering and Management Sciences](https://www.mccormick.northwestern.edu/industrial/) at Northwestern University in applied statistics and statistical learning, with a minor in simulation and stochastic analysis. I was fortunate to be advised by Prof. [Diego Klabjan](https://dynresmanagement.com/).
 
 I have also been fortunate to work with Prof. [Imon Banerjee](https://ibanerj750.github.io/).
 
